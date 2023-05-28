@@ -100,7 +100,7 @@ export default defineComponent({
         }
     },
     mounted() {
-        axios.get('cjhbdb/pb.json').then(res => {
+        axios.get('pb.json').then(res => {
             this.pbdata = res.data;
             this.loading = false;
         }).catch(err => {
