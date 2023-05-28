@@ -2,6 +2,10 @@
 
 https://linsyking.github.io/cjhbdb/
 
+或
+
+https://cjhbpb.web.app/
+
 ## 功能
 
 - 拼音搜索题目
